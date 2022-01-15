@@ -48,11 +48,14 @@ Use the same parameters and training steps for each model. This is necessary to 
 
 Finally, use the testing data to evaluate each model and compare the performance.
 
-Use the above to answer the following:
+Which model has a lower loss?
 
-> Which model has a lower loss?
->Fear & Greed
-> Which model tracks the actual values better over time?
->Closing prices
-> Which window size works best for the model?
-closing prices window: 1 and 1 
+Fear & Greed
+
+Which model tracks the actual values better over time?
+
+Closing prices
+
+Which window size works best for the model?
+
+Closing prices window: 1 and 1 
